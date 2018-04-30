@@ -1,0 +1,1 @@
+# aurelia-babel-requirejs-test
